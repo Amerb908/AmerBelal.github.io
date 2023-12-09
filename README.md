@@ -10,9 +10,8 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## Features
 
-- **Home Section:** Introduction and overview of who I am.
 - **Projects Section:** Highlights of key projects with descriptions and links.
-- **Skills Section:** List of programming languages and technologies I'm proficient in.
+- **About me:** Explains a bit about myself, what programming languages I know, and some experiences I have learned.
 - **Contact Section:** A form for visitors to get in touch with me.
 
 ## Preview
