@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This repository contains the source code for my personal portfolio website. The website showcases my skills, projects, and provides a brief overview of my professional background.
+This repository contains the source code for my personal portfolio website. The website showcases my skills, and projects, and provides a brief overview of my professional background.
 
 ## Technologies Used
 
@@ -17,4 +17,4 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## Preview
 
-You can preview the website live [here](insert-live-preview-link).
+You can preview the website live [here](https://amerb908.github.io/Portfolio/).
